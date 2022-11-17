@@ -1,0 +1,8 @@
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\obj\Debug\NumbersOfDigitsInInt.csproj.AssemblyReference.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\obj\Debug\NumbersOfDigitsInInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\obj\Debug\NumbersOfDigitsInInt.csproj.CoreCompileInputs.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\bin\Debug\NumbersOfDigitsInInt.exe.config
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\bin\Debug\NumbersOfDigitsInInt.exe
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\bin\Debug\NumbersOfDigitsInInt.pdb
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\obj\Debug\NumbersOfDigitsInInt.exe
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\NumbersOfDigitsInInt\NumbersOfDigitsInInt\obj\Debug\NumbersOfDigitsInInt.pdb
